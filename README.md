@@ -1,5 +1,5 @@
 # Bitcoin-Prediction-
-Bitcoin Price prediction Using Supervised Machine Algorithm
+Bitcoin Price prediction Using Supervised Machine Algorithms
 
 # Project Overview
 
