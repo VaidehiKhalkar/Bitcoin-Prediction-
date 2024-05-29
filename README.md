@@ -18,7 +18,7 @@ This project can be extended to other cryptocurrencies as well.
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/bitcoin_price)
+You can find the code for this project [here](https://github.com/VaidehiKhalkar/Bitcoin-Prediction-/blob/main/bitcoin%20prediction.ipynb)
 
 File overview:
 
@@ -43,7 +43,7 @@ To follow this project, please install the following locally:
 
 ## Data
 
-Computing the Wikipedia edit data takes time.  It can be faster to use the version that's already been generated.  It's in this repository, and called `wikipedia_edits.csv`.  Feel free to download and use the file.  You can also get it from [here](https://drive.google.com/uc?export=download&id=1XwJZ07bl2u-62yRMqV_emJGEXCI1u8dl).
+Computing the Wikipedia edit data takes time.  It can be faster to use the version that's already been generated.  It's in this repository, and called `wikipedia_edits.csv`.  Feel free to download and use the file.  You can also get it from [here](https://github.com/VaidehiKhalkar/Bitcoin-Prediction-).
 
 We'll be downloading the Bitcoin price data using the `yfinance` package as part of the project.
 
